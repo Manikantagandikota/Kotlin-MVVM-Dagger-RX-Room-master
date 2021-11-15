@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Manikanta/Downloads/Kotlin-MVVM-Dagger-RX-Room-master/Kotlin-MVVM-Dagger-RX-Room-master/app/src/main/res/drawable-v21/ic_bookmark.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Manikanta/Downloads/Kotlin-MVVM-Dagger-RX-Room-master/Kotlin-MVVM-Dagger-RX-Room-master/app/src/main/res/drawable-v21/ic_share.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Manikanta/Downloads/Kotlin-MVVM-Dagger-RX-Room-master/Kotlin-MVVM-Dagger-RX-Room-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Manikanta/Downloads/Kotlin-MVVM-Dagger-RX-Room-master/Kotlin-MVVM-Dagger-RX-Room-master/app/src/main/res/drawable/ic_account_circle_black_24dp.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Manikanta/Downloads/Kotlin-MVVM-Dagger-RX-Room-master/Kotlin-MVVM-Dagger-RX-Room-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Manikanta/Downloads/Kotlin-MVVM-Dagger-RX-Room-master/Kotlin-MVVM-Dagger-RX-Room-master/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Manikanta/Downloads/Kotlin-MVVM-Dagger-RX-Room-master/Kotlin-MVVM-Dagger-RX-Room-master/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Manikanta/Downloads/Kotlin-MVVM-Dagger-RX-Room-master/Kotlin-MVVM-Dagger-RX-Room-master/app/src/main/res/layout/fragment_blank.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Manikanta/Downloads/Kotlin-MVVM-Dagger-RX-Room-master/Kotlin-MVVM-Dagger-RX-Room-master/app/src/main/res/layout/fragment_bookmark.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Manikanta/Downloads/Kotlin-MVVM-Dagger-RX-Room-master/Kotlin-MVVM-Dagger-RX-Room-master/app/src/main/res/layout/fragment_home.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Manikanta/Downloads/Kotlin-MVVM-Dagger-RX-Room-master/Kotlin-MVVM-Dagger-RX-Room-master/app/src/main/res/layout/news_fragment.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Manikanta/Downloads/Kotlin-MVVM-Dagger-RX-Room-master/Kotlin-MVVM-Dagger-RX-Room-master/app/src/main/res/layout/news_row_item.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/Manikanta/Downloads/Kotlin-MVVM-Dagger-RX-Room-master/Kotlin-MVVM-Dagger-RX-Room-master/app/src/main/res/menu/bottom_nav_menu.xml" value="0.13020833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
